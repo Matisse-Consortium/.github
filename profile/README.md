@@ -1,5 +1,5 @@
 # MATISSE-Consortium
-This organisation contains repositories to make it easiert to work with MATISSE in various aspects.
+This organisation contains repositories to make it easiert to work with the MATISSE/VLTI-instrument in various aspects.
 
 The MATISSE-consortium organisation is supplementary to and an extension of the [mat-tools](https://gitlab.oca.eu/MATISSE/tools/-/tree/master) GitLab-repository,
 which mainly takes care of data reduction ([`matadrs`](https://github.com/Matisse-Consortium/matadrs) is partially based on this).

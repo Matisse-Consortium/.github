@@ -1,5 +1,5 @@
 # MATISSE-Consortium
-This organisation contains repositories to make it easier to work with the VLTI/MATISSE instrument in various aspects.
+This organisation contains repositories to make it easier to work with the [VLTI/MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/overview.html) instrument in various aspects.
 For an in-depth explanation of the various functionality see the different repositories' `README.md`/description.
 
 > [!NOTE]

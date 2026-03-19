@@ -1,6 +1,6 @@
 # MATISSE-Consortium
 This organisation contains repositories to make it easier to work with the [VLTI/MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/overview.html) instrument in various aspects.
-For an in-depth explanation of the various functionality see the different repositories' `README.md`/description.
+For an in-depth explanation of the various functionality see the different repositories' descriptions.
 
 > [!NOTE]
 > * For MATISSE data reduction see [`matisse-pipeline`](https://github.com/Matisse-Consortium/matisse-pipeline). Supplementary tools are available in [`tools`](https://github.com/Matisse-Consortium/tools).
